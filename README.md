@@ -30,7 +30,7 @@ pip install -r requirements.txt
 python app.py
 Access the application in your web browser at http://localhost:5000
 Usage
-Input the required data, such as age, gender, and relevant medical information, into the web form.
+Input the required data, such as age, gender, and relevant medical information, into the web form
 
 - Click the "Predict" button to obtain a prediction of autism likelihood.
 
